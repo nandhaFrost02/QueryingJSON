@@ -1,3 +1,0 @@
-internal.querying from cli splits the string with spaces what if folder/file name has ' '
-while reading file, FileWatcher needs to added to avoid breaking code
-FileValidation - errors not maintained
