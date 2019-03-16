@@ -1,2 +1,0 @@
-Sample query - select * from './../files/validation.json'
-stack order - ['./../files/validation.json', from, *, select]
